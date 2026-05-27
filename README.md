@@ -33,17 +33,6 @@ Key lessons:
 - Shared memory helps when it improves global-memory access patterns.
 - Profiling tools are necessary to explain bottlenecks.
 
-## Target Roles
-
-This work is most relevant to:
-
-- systems software engineering
-- performance engineering
-- embedded Linux engineering
-- CUDA / GPU performance engineering
-- infrastructure performance analysis
-- CPU/GPU heterogeneous systems work
-
 ## Status
 
 Phase 1: complete
