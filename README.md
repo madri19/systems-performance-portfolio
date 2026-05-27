@@ -14,6 +14,12 @@ ARM embedded Linux -> multicore Linux systems performance -> ARM server validati
 | Phase 2 | [linux-systems-performance-lab](https://github.com/madri19/linux-systems-performance-lab) | Multicore CPU scaling, contention, cache locality, perf/flamegraphs, ARM server smoke validation |
 | Phase 3 | [cuda-heterogeneous-performance-lab](https://github.com/madri19/cuda-heterogeneous-performance-lab) | CUDA kernels, memory transfer overhead, GPU bandwidth, shared memory, streams, Nsight profiling |
 
+## Phase Details
+
+- [Phase 1 - ARM Embedded Linux](docs/phase1_embedded_linux.md)
+- [Phase 2 - Linux Systems Performance](docs/phase2_linux_systems_performance.md)
+- [Phase 3 - CUDA Heterogeneous Performance](docs/phase3_cuda_heterogeneous_performance.md)
+
 ## Core Lessons
 
 Raw hardware capability is not enough.
